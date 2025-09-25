@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "nan": "2.19.*"
+    "nan": "2.23.*"
   },
   "contributors": [
     {
